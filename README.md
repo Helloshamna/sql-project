@@ -1,6 +1,6 @@
 ##  sql-project
 Online Book Store Management System The Online Book Store Management System is a database project designed to efficiently manage book inventory, customer details, and sales transactions. The system allows users to browse available books, place orders, and track purchase history. It ensures seamless data storage and retrieval through SQL queries.
-##  Basic Queries
+##   Basic Queries
 1) Retrieve all books in the "Fiction" genre
 2) Find books published after the year 1950
 3) List all customers from the Canada
@@ -12,4 +12,13 @@ Online Book Store Management System The Online Book Store Management System is a
 9) List all genres available in the Books table
 10) Find the book with the lowest stock
 11) Calculate the total revenue generated from all orders
-## Advance Queries
+##  Advance Queries
+1) Retrieve the total number of books sold for each genre
+2) Find the average price of books in the "Fantasy" genre
+3) List customers who have placed at least 2 orders
+4) Find the most frequently ordered book
+5) Show the top 3 most expensive books of 'Fantasy' Genre
+6) Retrieve the total quantity of books sold by each author
+7) List the cities where customers who spent over $30 are located
+8) Find the customer who spent the most on orders
+9) Calculate the stock remaining after fulfilling all orders
